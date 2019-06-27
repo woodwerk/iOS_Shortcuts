@@ -53,6 +53,20 @@ Captures your current location and saves to your clipboard. It's helpful for geo
 [link to Shortcut](https://www.icloud.com/shortcuts/b81d4a5145ff4a368bc531703b7a72dd)
 
 If you have airline flights in your calendar formatted with the event title consisting of airline code followed by colon and then flight numbers (e.g., **SWA: 555**), this Shortcut will allow to to select your current flight, construct a FlightAware URL and text it to your family and friends. You can preload usual recipients to streamline the process even more.
+
+#### Example
+Select from today's events, one of which is a two-leg flight in the expected format.
+
+![event](https://github.com/woodwerk/iOS_Shortcuts/blob/master/flight_notice_example_1.png?raw=true)
+
+Choose the appropriate flight
+
+![flight](https://github.com/woodwerk/iOS_Shortcuts/blob/master/flight_notice_example_2.png?raw=true)
+
+The Shortcut formats the FlightAware URL and preloads a text message. The receipting gets and information-rich text message containing all flight information and can tap the message to get up-to-date info about the flight, arrival time and such.
+
+![text_msg](https://github.com/woodwerk/iOS_Shortcuts/blob/master/flight_notice_example_2.png?raw=true)
+
 ***
 
 ## Loan Calculator
