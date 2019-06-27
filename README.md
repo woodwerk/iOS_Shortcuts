@@ -28,12 +28,12 @@ Start of day - 9:45 AM
 2:00 PM - End of day
 
 Wed, 03 Jul 2019
-Start of day - 11:00 AM
-12:30 PM - 4:00 PM
-5:00 PM - End of day
+Start of day - 8:30 AM
+10:00 AM - 11:45 AM
+1:15 PM - End of day
 
 Thu, 04 Jul 2019
 I am free all day
 ```
 
-Note that the all-day and family event were ignored. Also, the test meeting on the work calendar (7/2 @ 10) has 15 min added on either side for travel.
+Note that the all-day and family event were ignored. Also, the events with location (7/2 @ 10 and 7/3 @ noon) have 15 min added on either side for travel - but not the event with a phone number in the location field.
