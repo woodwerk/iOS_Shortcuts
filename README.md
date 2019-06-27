@@ -10,7 +10,7 @@ Choose a starting date and number of days to consider and this Shortcut will ass
 2. Added to a new Draft (Drafts app: [Mac version](https://apps.apple.com/us/app/drafts/id1435957248?mt=12), [iOS version](https://apps.apple.com/us/app/drafts/id1236254471))
 3. Copied to the clipboard
 
-### Example
+#### Example
 Below is a screenshot of an example calendar with a few test events for demonstrating the Shortcut. The red items are on my personal calendar and the blue items are work meetings. 
 
 ![calendar](https://github.com/woodwerk/iOS_Shortcuts/blob/master/availability_calendar.jpg?raw=true)
@@ -37,3 +37,33 @@ I am free all day
 ```
 
 Note that the all-day and family event were ignored. Also, the events with location (7/2 @ 10 and 7/3 @ noon) have 15 min added on either side for travel - but not the event with a phone number in the location field.
+***
+
+## Current Lat/Long
+***
+
+## Flight Notice
+***
+
+## Loan Calculator
+***
+
+## On My Way
+***
+## Packing List (Item Select)
+***
+
+## Timestamp to Clipboard
+***
+
+## Tip Calculator
+***
+
+## Today
+***
+
+## VCARD QR
+***
+
+## Wifi QR Share
+***
