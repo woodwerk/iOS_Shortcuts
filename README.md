@@ -48,7 +48,7 @@ Captures your current location and saves to your clipboard. It's helpful for geo
 
 ***
 
-## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/current_loc_icon.png?raw=true) Flight Notice
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/flight_notice_icon.png?raw=true) Flight Notice
 
 [link to Shortcut](https://www.icloud.com/shortcuts/b81d4a5145ff4a368bc531703b7a72dd)
 
