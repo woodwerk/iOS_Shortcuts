@@ -69,7 +69,7 @@ The Shortcut formats the FlightAware URL and preloads a text message. The receip
 
 ***
 
-## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/flight_notice_icon.png?raw=true) Loan Calculator
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/loan_icon.png?raw=true) Loan Calculator
 
 [link to Shortcut](https://www.icloud.com/shortcuts/e209c366524d4939a383c4cc7059b75e)
 
