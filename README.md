@@ -40,7 +40,7 @@ Note that the all-day and family event were ignored. Also, the events with locat
 
 ***
 
-## Current Lat/Long
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/current_loc_icon.png?raw=true) Current Lat/Long
 
 [link to Shortcut](https://www.icloud.com/shortcuts/f2b18528f8ca4e73968fd3d7a246d890)
 
