@@ -65,7 +65,7 @@ Choose the appropriate flight
 
 The Shortcut formats the FlightAware URL and preloads a text message. The receipting gets and information-rich text message containing all flight information and can tap the message to get up-to-date info about the flight, arrival time and such.
 
-![text_msg](https://github.com/woodwerk/iOS_Shortcuts/blob/master/flight_notice_example_2.png?raw=true)
+![text_msg](https://github.com/woodwerk/iOS_Shortcuts/blob/master/flight_notice_example_3.png?raw=true)
 
 ***
 
