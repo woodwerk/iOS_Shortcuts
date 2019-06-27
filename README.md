@@ -13,7 +13,7 @@ Choose a starting date and number of days to consider and this Shortcut will ass
 ### Example
 Below is a screenshot of an example calendar with a few test events for demonstrating the Shortcut. The red items are on my personal calendar and the blue items are work meetings. 
 
-![calendar](https://github.com/woodwerk/iOS_Shortcuts/blob/master/availability_calendar.png?raw=true)
+![calendar](https://github.com/woodwerk/iOS_Shortcuts/blob/master/availability_calendar.jpg?raw=true)
 
 In the Shortcut, I selected the July 2nd as the starting date with 3 days to check. I also adjust the travel time from the default of 30 min to 15 min. Set travel time to zero (or leave empty) to not invoke this feature. 
 
