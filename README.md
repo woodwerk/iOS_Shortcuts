@@ -37,9 +37,15 @@ I am free all day
 ```
 
 Note that the all-day and family event were ignored. Also, the events with location (7/2 @ 10 and 7/3 @ noon) have 15 min added on either side for travel - but not the event with a phone number in the location field.
+
 ***
 
 ## Current Lat/Long
+
+[link to Shortcut](https://www.icloud.com/shortcuts/f2b18528f8ca4e73968fd3d7a246d890)
+
+Captures your current location and saves to your clipboard. It's helpful for geo-tagging notes, recording positions of events, etc
+
 ***
 
 ## Flight Notice
