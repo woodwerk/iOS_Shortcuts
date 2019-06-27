@@ -48,7 +48,11 @@ Captures your current location and saves to your clipboard. It's helpful for geo
 
 ***
 
-## Flight Notice
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/current_loc_icon.png?raw=true) Flight Notice
+
+[link to Shortcut](https://www.icloud.com/shortcuts/b81d4a5145ff4a368bc531703b7a72dd)
+
+If you have airline flights in your calendar formatted with the event title consisting of airline code followed by colon and then flight numbers (e.g., **SWA: 555**), this Shortcut will allow to to select your current flight, construct a FlightAware URL and text it to your family and friends. You can preload usual recipients to streamline the process even more.
 ***
 
 ## Loan Calculator
