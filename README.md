@@ -149,6 +149,22 @@ Get a summary of:
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/vcard_icon.png?raw=true) VCARD QR
 [Link to Shortcut](https://www.icloud.com/shortcuts/55588d72613345a6bd23aff4d23e772b)
 
+Easily provide user-controlled contact information to acquaintences, colleagues and friends. This Shortcut displays one of three QR-based v-cards:
+* Professional: containing work email, phone and address
+* Personal (basic): just phone number and email
+* Personal (full): basic plus home address
+
+The comment block at the top of the Shortcut contains the plain-text vcard template for you to modify as needed. 
+
+Select one of the three options 
+
+![example](https://github.com/woodwerk/iOS_Shortcuts/blob/master/vcard_menu.jpeg?raw=true)
+
+and have your acquaintence/friend point their camera at the resulting QR code and then save the contact.
+
+![example](https://github.com/woodwerk/iOS_Shortcuts/blob/master/vcard_example.jpeg?raw=true)
+
+
 ***
 
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/wifi_icon.png?raw=true) Wifi QR
