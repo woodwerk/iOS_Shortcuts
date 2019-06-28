@@ -86,7 +86,26 @@ Send your friends/family a text with your estimated arrival time. In this shared
 ![shortcut](https://github.com/woodwerk/iOS_Shortcuts/blob/master/on_my_way.jpg?raw=true)
 
 ***
-## Packing List (Item Select)
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/on_my_way_icon.png?raw=true) Packing List (Item Select)
+[Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
+
+This short cut will create a packing list as a new project in OmniFocus. The list template are text files contained in a dedicated folder on your iCloud drive. The shortcut will create project tasks for each selected list and sub-tasks for items in that list. Items with the battery icon appended will appear in a special 'Charge' list reminding you to charge those items before departure. Here is my TECH list:
+
+```
+iPad 🔋
+MacBookPro 🔋
+Bose QC35 🔋
+Battery back-up 🔋
+Laptop charger
+4-port USB charger
+Lightning cables
+micro-USB cable
+Lightning-HDMI adapter
+Hot-spot
+```
+
+As an example, below is a screen shot for a packing list 'project' where I've only selected the BUSINESS CLOTHES and TECH lists. 
+
 ***
 
 ## Timestamp to Clipboard
