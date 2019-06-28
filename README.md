@@ -71,7 +71,7 @@ The Shortcut formats the FlightAware URL and preloads a text message. The receip
 
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/loan_icon.png?raw=true) Loan Calculator
 
-[link to Shortcut](https://www.icloud.com/shortcuts/e209c366524d4939a383c4cc7059b75e)
+[Link to Shortcut](https://www.icloud.com/shortcuts/e209c366524d4939a383c4cc7059b75e)
 
 Follow the prompts for loan amount, interest rate (%) and number of payments and the periodic payment amount is computed.
 
@@ -89,11 +89,11 @@ Send your friends/family a text with your estimated arrival time. In this shared
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_icon.png?raw=true) Packing List (Item Select)
 [Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
 
-This short cut will create a packing list as a new project in OmniFocus. The list template are text files contained in a dedicated folder on your iCloud drive as shown in this screenshot. 
+This Shortcut will create a packing list as a new project in OmniFocus. The list template are text files contained in a dedicated folder on your iCloud drive as shown in this screenshot. 
 
 ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_folder.png?raw=true)
 
-The shortcut will create project tasks for each selected list and sub-tasks for items in that list. You can select with lists to include. For example, some trips may not required business attire, so de-select the BUSINESS CLOTHES list. Also, individual list items can be deselected. Items with the battery icon appended will appear in a special 'Charge' list reminding you to charge those items before departure. Here is my TECH list:
+The Shortcut will create project tasks for each selected list and sub-tasks for items in that list. You can select with lists to include. For example, some trips may not required business attire, so de-select the BUSINESS CLOTHES list. Also, individual list items can be deselected. Items with the battery icon appended will appear in a special 'Charge' list reminding you to charge those items before departure. Here is my TECH list:
 
 ```
 iPad 🔋
