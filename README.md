@@ -135,11 +135,11 @@ Quickly compute the tip on a meal. Enter tab for the mean and select from severa
 [Link to Shortcut](https://www.icloud.com/shortcuts/065d04f3e55f4937a79ba4b884d7d510)
 
 Get a summary of:
-*Events on your calendar for today and tomorrow, 
-*Open reminders, 
-*Current conditions your location, 
-*Sunset and sunrise today and
-*Weather forecast for today and tomorrow 
+* Events on your calendar for today and tomorrow, 
+* Open reminders, 
+* Current conditions your location, 
+* Sunset and sunrise today and
+* Weather forecast for today and tomorrow 
 
 ![example](https://github.com/woodwerk/iOS_Shortcuts/blob/master/today_example.jpeg?raw=true)
 
