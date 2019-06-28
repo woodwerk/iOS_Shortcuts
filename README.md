@@ -118,10 +118,16 @@ As an example, below is a screen shot for a packing list 'project' where I've on
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/timestamp_icon.png?raw=true) Timestamp to Clipboard
 [Link to Shortcut](https://www.icloud.com/shortcuts/2107435b7bd9412ea1b3e14defe5f51b)
 
+A very simple but helpful Shortcut that copies the current date and time to the clipboard. Helpful for timestamping notes and other annotations. The default format is ISO 8601 without the 'T': "yyyymmdd HHMMSS".
+
 ***
 
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/tip_calc_icon.png?raw=true) Tip Calculator
 [Link to Shortcut](https://www.icloud.com/shortcuts/9e48a5e49cf84659b2172d1a2f2dcec6)
+
+Quickly compute the tip on a meal. Enter tab for the mean and select from several tip percentages. 
+
+![example](https://github.com/woodwerk/iOS_Shortcuts/blob/master/tip_example.png?raw=true)
 
 ***
 
