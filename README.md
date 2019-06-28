@@ -89,7 +89,7 @@ Send your friends/family a text with your estimated arrival time. In this shared
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_icon.png?raw=true) Packing List (Item Select)
 [Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
 
-This Shortcut will create a packing list as a new project in OmniFocus. The list template are text files contained in a dedicated folder on your iCloud drive as shown in this screenshot. 
+This Shortcut will create a packing list as a new project in [OmniFocus](https://apps.apple.com/us/app/omnifocus-3/id1346190318). The list template are text files contained in a dedicated folder on your iCloud drive as shown in this screenshot. 
 
 ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_folder.png?raw=true)
 
