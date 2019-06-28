@@ -2,7 +2,7 @@
 A collection of Shortcuts I routinely use. Note that to add a Shortcut to your own library you need to open the link (below the its title) on an iOS device.
 
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/availability_icon.png?raw=true) Availability 
-[link to Shortcut](https://www.icloud.com/shortcuts/16e5d93aba074dfe93f894b7bd3aa76f)
+[Link to Shortcut](https://www.icloud.com/shortcuts/16e5d93aba074dfe93f894b7bd3aa76f)
 
 Choose a starting date and number of days to consider and this Shortcut will assemble a list of available times in your calendar. That is, it will create a list of the times not already occupied by events or meetings. It ignores all-day events and gets only events on my personal or work calendars. Also, there is the option to add travel time around events that have a designated location. The output is provided three ways:
 
@@ -42,7 +42,7 @@ Note that the all-day and family event were ignored. Also, the events with locat
 
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/current_loc_icon.png?raw=true) Current Lat/Long
 
-[link to Shortcut](https://www.icloud.com/shortcuts/f2b18528f8ca4e73968fd3d7a246d890)
+[Link to Shortcut](https://www.icloud.com/shortcuts/f2b18528f8ca4e73968fd3d7a246d890)
 
 Captures your current location and saves to your clipboard. It's helpful for geo-tagging notes, recording positions of events, etc
 
@@ -50,7 +50,7 @@ Captures your current location and saves to your clipboard. It's helpful for geo
 
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/flight_notice_icon.png?raw=true) Flight Notice
 
-[link to Shortcut](https://www.icloud.com/shortcuts/b81d4a5145ff4a368bc531703b7a72dd)
+[Link to Shortcut](https://www.icloud.com/shortcuts/b81d4a5145ff4a368bc531703b7a72dd)
 
 If you have airline flights in your calendar formatted with the event title consisting of airline code followed by colon and then flight numbers (e.g., **SWA: 555**), this Shortcut will allow to to select your current flight, construct a FlightAware URL and text it to your family and friends. You can preload usual recipients to streamline the process even more.
 
@@ -77,11 +77,13 @@ Follow the prompts for loan amount, interest rate (%) and number of payments and
 
 ***
 
-## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/loan_icon.png?raw=true) On My Way
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/on_my_way_icon.png?raw=true) On My Way
 
-[link to Shortcut](https://www.icloud.com/shortcuts/d85a89ee5ac74a1bb999dfe87f71d4cc)
+[Link to Shortcut](https://www.icloud.com/shortcuts/d85a89ee5ac74a1bb999dfe87f71d4cc)
 
 Send your friends/family a text with your estimated arrival time. In this shared version of the short cut, the destination and recipient are blank. Fill-in the destination with your home address and add your SO as the recipient to tell them you're on your way home and estimated arrival time.
+
+![shortcut](https://github.com/woodwerk/iOS_Shortcuts/blob/master/on_my_way.jpg?raw=true)
 
 ***
 ## Packing List (Item Select)
