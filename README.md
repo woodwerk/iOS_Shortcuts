@@ -116,26 +116,26 @@ As an example, below is a screen shot for a packing list 'project' where I've on
 ***
 
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_icon.png?raw=true) Timestamp to Clipboard
-[Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
+[Link to Shortcut](https://www.icloud.com/shortcuts/2107435b7bd9412ea1b3e14defe5f51b)
 
 ***
 
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_icon.png?raw=true) Tip Calculator
-[Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
+[Link to Shortcut](https://www.icloud.com/shortcuts/9e48a5e49cf84659b2172d1a2f2dcec6)
 
 ***
 
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_icon.png?raw=true) Today
-[Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
+[Link to Shortcut](https://www.icloud.com/shortcuts/065d04f3e55f4937a79ba4b884d7d510)
 
 ***
 
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_icon.png?raw=true) VCARD QR
-[Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
+[Link to Shortcut](https://www.icloud.com/shortcuts/55588d72613345a6bd23aff4d23e772b)
 
 ***
 
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_icon.png?raw=true) Wifi QR Share
-[Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
+[Link to Shortcut](https://www.icloud.com/shortcuts/a2fb577e25a04a57b106e9d1d024c70c)
 
 ***
