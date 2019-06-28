@@ -170,7 +170,7 @@ and have your acquaintence/friend point their camera at the resulting QR code an
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/wifi_icon.png?raw=true) Wifi QR
 [Link to Shortcut](https://www.icloud.com/shortcuts/a2fb577e25a04a57b106e9d1d024c70c)
 
-Invite friends and guests to your WiFi network without compromising security. You can maintain strong WiFi passwords but your visitors do not have to type lengthy gibberish. You don't even reveal the actual password in human-readable form as the infomation is conveyed via QR code. This Shortcut is configured with work and home (two) options but the menu could be easily expanded to include a guest log-ins and more. Select the appropriate option and have your visitor point their camera at the resulting QR code. The can then join the network.
+Invite friends and guests to your WiFi network without compromising security. You can maintain strong WiFi passwords but your visitors do not have to type lengthy gibberish. You don't reveal the password in human-readable form as the infomation is conveyed via QR code. This Shortcut is configured for two networks (work and home) but the menu could be easily expanded to include a guest log-ins and more. Select the appropriate option and have your visitor point their camera at the resulting QR code. The can then join the network.
 
 ![example](https://github.com/woodwerk/iOS_Shortcuts/blob/master/wifi_example.jpeg?raw=true)
 
