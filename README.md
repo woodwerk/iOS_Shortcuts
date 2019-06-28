@@ -77,7 +77,12 @@ Follow the prompts for loan amount, interest rate (%) and number of payments and
 
 ***
 
-## On My Way
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/loan_icon.png?raw=true) On My Way
+
+[link to Shortcut](https://www.icloud.com/shortcuts/d85a89ee5ac74a1bb999dfe87f71d4cc)
+
+Send your friends/family a text with your estimated arrival time. In this shared version of the short cut, the destination and recipient are blank. Fill-in the destination with your home address and add your SO as the recipient to tell them you're on your way home and estimated arrival time.
+
 ***
 ## Packing List (Item Select)
 ***
