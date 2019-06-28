@@ -162,7 +162,7 @@ Select one of the three options
 
 and have your acquaintence/friend point their camera at the resulting QR code and then save the contact.
 
-![example](https://github.com/woodwerk/iOS_Shortcuts/blob/master/vcard_example.jpeg?raw=true)
+![example](https://github.com/woodwerk/iOS_Shortcuts/blob/master/vcard_example.jpg?raw=true)
 
 
 ***
