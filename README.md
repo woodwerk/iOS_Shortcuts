@@ -127,7 +127,7 @@ A very simple but helpful Shortcut that copies the current date and time to the 
 
 Quickly compute the tip on a meal. Enter tab for the mean and select from several tip percentages. 
 
-![example](https://github.com/woodwerk/iOS_Shortcuts/blob/master/tip_example.png?raw=true)
+![example](https://github.com/woodwerk/iOS_Shortcuts/blob/master/tip_example.jpeg?raw=true)
 
 ***
 
