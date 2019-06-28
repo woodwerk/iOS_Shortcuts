@@ -135,7 +135,7 @@ As an example, below is a screen shot for a packing list 'project' where I've on
 
 ***
 
-## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/wifi_icon.png?raw=true) Wifi QR Share
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/wifi_icon.png?raw=true) Wifi QR
 [Link to Shortcut](https://www.icloud.com/shortcuts/a2fb577e25a04a57b106e9d1d024c70c)
 
 ***
