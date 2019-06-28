@@ -86,6 +86,7 @@ Send your friends/family a text with your estimated arrival time. In this shared
 ![shortcut](https://github.com/woodwerk/iOS_Shortcuts/blob/master/on_my_way.jpg?raw=true)
 
 ***
+
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_icon.png?raw=true) Packing List (Item Select)
 [Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
 
@@ -108,21 +109,33 @@ Lightning-HDMI adapter
 Hot-spot
 ```
 
-As an example, below is a screen shot for a packing list 'project' where I've only selected the BUSINESS CLOTHES and TECH lists, where I've opted to not bring the MacBookPro.
+As an example, below is a screen shot for a packing list 'project' where I've only selected the BUSINESS CLOTHES and TECH lists, where I've opted to not pack the MacBookPro.
+
+![example](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_example.png?raw=true)
 
 ***
 
-## Timestamp to Clipboard
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_icon.png?raw=true) Timestamp to Clipboard
+[Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
+
 ***
 
-## Tip Calculator
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_icon.png?raw=true) Tip Calculator
+[Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
+
 ***
 
-## Today
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_icon.png?raw=true) Today
+[Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
+
 ***
 
-## VCARD QR
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_icon.png?raw=true) VCARD QR
+[Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
+
 ***
 
-## Wifi QR Share
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/pack_icon.png?raw=true) Wifi QR Share
+[Link to Shortcut](https://www.icloud.com/shortcuts/2de1363e92af455f9675b0b182015760)
+
 ***
