@@ -5,7 +5,7 @@ A collection of Shortcuts I routinely use. Note that to add a Shortcut to your o
 
 [Link to Shortcut](https://www.icloud.com/shortcuts/35a6862d02bc406a81b576d8bd0b2a77)
 
-Create [diceware](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwj9tcHc2dLjAhXKjp4KHWPYC2MQFjACegQIDBAG&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDiceware&usg=AOvVaw3JQ-aiySWCSYqtJ2zxBsSB) passwords from one of three user-selected word lists.
+Create [diceware](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwj9tcHc2dLjAhXKjp4KHWPYC2MQFjACegQIDBAG&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDiceware&usg=AOvVaw3JQ-aiySWCSYqtJ2zxBsSB) passwords from one of three user-selected word lists. The lists themselves and additional info about dice-generated passphrases can be found [here](https://www.eff.org/dice).
 
 ***
 
