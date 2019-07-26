@@ -85,7 +85,7 @@ Follow the prompts for loan amount, interest rate (%) and number of payments and
 
 ***
 
-## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/on_my_way_icon.png?raw=true) On My Way
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/media/on_my_way_icon.png?raw=true) On My Way
 
 [Link to Shortcut](https://www.icloud.com/shortcuts/d85a89ee5ac74a1bb999dfe87f71d4cc)
 
