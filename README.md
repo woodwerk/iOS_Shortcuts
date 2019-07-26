@@ -1,6 +1,14 @@
 # iOS Shortcuts
 A collection of Shortcuts I routinely use. Note that to add a Shortcut to your own library you need to open the link (below the its title) on an iOS device.
 
+## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/current_loc_icon.png?raw=true) Diceware
+
+[Link to Shortcut](https://itunes.apple.com/app/shortcuts/id915249334)
+
+Captures your current location and saves to your clipboard. It's helpful for geo-tagging notes, recording positions of events, etc
+
+***
+
 ## ![icon](https://github.com/woodwerk/iOS_Shortcuts/blob/master/availability_icon.png?raw=true) Availability 
 [Link to Shortcut](https://www.icloud.com/shortcuts/16e5d93aba074dfe93f894b7bd3aa76f)
 
